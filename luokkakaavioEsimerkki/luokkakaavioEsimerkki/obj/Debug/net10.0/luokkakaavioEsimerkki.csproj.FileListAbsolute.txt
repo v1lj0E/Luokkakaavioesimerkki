@@ -1,0 +1,14 @@
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.AssemblyInfoInputs.cache
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.AssemblyInfo.cs
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.csproj.CoreCompileInputs.cache
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\bin\Debug\net10.0\luokkakaavioEsimerkki.exe
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\bin\Debug\net10.0\luokkakaavioEsimerkki.deps.json
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\bin\Debug\net10.0\luokkakaavioEsimerkki.runtimeconfig.json
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\bin\Debug\net10.0\luokkakaavioEsimerkki.dll
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\bin\Debug\net10.0\luokkakaavioEsimerkki.pdb
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.dll
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\refint\luokkakaavioEsimerkki.dll
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.pdb
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\luokkakaavioEsimerkki.genruntimeconfig.cache
+C:\Users\vilja\OneDrive\Tiedostot\c#\luokkakaavioEsimerkki\luokkakaavioEsimerkki\obj\Debug\net10.0\ref\luokkakaavioEsimerkki.dll

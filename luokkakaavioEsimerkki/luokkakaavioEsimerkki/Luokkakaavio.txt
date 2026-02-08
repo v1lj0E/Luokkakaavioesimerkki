@@ -1,0 +1,17 @@
+Työkalulaatikko
+- Fields/Properties:
+  - string Nimi { get; set; }
+  - List<Työkalu> Työkalut { get; set; }
+- Methods:
+  - void Info()
+  - void LisääTyökalu(Työkalu työkalu)
+  - bool PoistaTyökalu(Työkalu työkalu)
+  - void TallennaTiedostoon(string polku)
+  - static Työkalulaatikko LataaTiedostosta(string polku)
+
+Työkalu
+- Properties:
+  - string Nimi { get; set; }
+- Methods:
+  - void Info()
+  - override string ToString()
